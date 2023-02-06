@@ -1,7 +1,7 @@
-for i in range(22):
+for i in range(21):
     print("hello " * i)
 
-for i in range(22):
-    print("hello " * (22 - i))
+for i in range(21):
+    print("hello " * (21 - i))
 
-print("Github!")
+print("goodbye")
